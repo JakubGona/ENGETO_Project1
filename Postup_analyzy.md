@@ -1,3 +1,5 @@
+## Postup analýzy ##
+
 ## 1. Rástli mzdy vo všetkých odvetviach počas rokov, alebo v niektorých došlo k poklesu?
 
 Mzdy vo všetkých sledovaných odvetviach v období od roku 2006 do 2018 rástli, avšak tento rast nebol plynulý. V niektorých rokoch bol zaznamenaný medziročný pokles.
@@ -6,8 +8,8 @@ Z celkových 228 sledovaných období došlo k poklesu mzdy v 23 prípadoch, čo
 
 Najväčší nárast miezd bol zaznamenaný v sektore **Zdravotná a sociálna starostlivosť**, kde v roku 2018 dosiahla mzda o 76,9 % vyššiu hodnotu v porovnaní s rokom 2006. Tento sektor sa dlhodobo drží nad celkovým priemerom miezd v ČR. Nasledujú sektory ako **Poľnohospodárstvo, lesníctvo a rybárstvo**, **Spracovateľský priemysel** a **Kultura, zábava a rekreácia**, kde mzdy vzrástli o viac ako 70 %.
 
-Naopak, najmenej sa mzdy zvýšili v sektore **Finančné služby a poistenie**, kde v roku 2018 bola mzda o 36,3 % vyššia než v roku 2006. Tento sektor však spolu s **Informačnými a komunikačnými službami** patrí medzi najlepšie platené oblasti, zatiaľ čo odvetvia ako **Poľnohospodárstvo** a **Kultura, zábava a rekreácia** majú najnižšie mzdy.
----
+*Naopak, najmenej sa mzdy zvýšili v sektore **Finančné služby a poistenie**, kde v roku 2018 bola mzda o 36,3 % vyššia než v roku 2006. Tento sektor však spolu s **Informačnými a komunikačnými službami** patrí medzi najlepšie platené oblasti, zatiaľ čo odvetvia ako **Poľnohospodárstvo** a **Kultura, zábava a rekreácia** majú najnižšie mzdy.*
+
 
 ## 2. Koľko chleba a mlieka si bolo možné kúpiť za priemernú mzdu v prvom a poslednom dostupnom období?
 
@@ -16,8 +18,8 @@ Pre výpočet množstva mlieka a chleba, ktoré bolo možné kúpiť za priemern
 V roku 2006 bolo za priemernú cenu chleba 16,12 CZK a priemernú mzdu 20 753,78 CZK možné kúpiť 1 287,18 kg chleba alebo 1 437 litrov mlieka, ktorého priemerná cena bola 14,44 CZK za liter.
 V roku 2018, pri cene chleba 24,24 CZK a priemernej mzde 32 536 CZK, bolo možné kúpiť 1 342 kg chleba alebo 1 642 litrov mlieka, pričom cena mlieka bola 19,82 CZK za liter.
 
-Na základe týchto údajov môžeme konštatovať, že v poslednom porovnateľnom období sa kúpna sila obyvateľov zvýšila, najmä pokiaľ ide o dostupnosť chleba a mlieka.
----
+*Na základe týchto údajov môžeme konštatovať, že v poslednom porovnateľnom období sa kúpna sila obyvateľov zvýšila, najmä pokiaľ ide o dostupnosť chleba a mlieka.*
+
 
 ## 3. Ktorá kategória potravín zdražovala najpomalšie (t.j. mala najnižší medziročný nárast)?
 
@@ -30,8 +32,7 @@ Najväčší nárast cien potravín medzi rokmi 2006 a 2018 bol zaznamenaný pri
 
 Výrazné zlacnenie bolo zaznamenané pri **cukre** a **rajských paradajkách**, s poklesom o -27,52 % a -23,07 %.
 
-Najväčší medziročný nárast cien potravín bol v rokoch 2006 až 2007 pri paprikách, zatiaľ čo rajské paradajky zaznamenali najväčší pokles práve v tomto období.
----
+*Najväčší medziročný nárast cien potravín bol v rokoch 2006 až 2007 pri paprikách, zatiaľ čo rajské paradajky zaznamenali najväčší pokles práve v tomto období.*
 
 ## 4. Existuje rok, kedy medziročný nárast cien potravín bol výrazne vyšší ako rast miezd (viac ako 10 %) ?
 
@@ -39,7 +40,6 @@ V žiadnom z rokov, ktoré boli skúmané, medziročný nárast cien potravín n
 Najväčší medziročný nárast cien potravín bol v roku 2017, kedy ceny vzrástli o 9,63 %.
 V roku 2013 bol najväčší rozdiel medzi nárastom cien potravín a miezd, a to o 6,66 %. Ceny potravín vzrástli o 5,1 %, zatiaľ čo mzdy klesli o -1,56 %.
 V roku 2010 bol medziročný nárast cien a miezd rovnaký.
----
 
 ## 5. Má výška HDP vplyv na zmeny v mzdách a cenách potravín?
 
