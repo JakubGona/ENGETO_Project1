@@ -36,10 +36,9 @@ Výrazné zlacnenie bolo zaznamenané pri **cukre** a **rajských paradajkách**
 
 ## 4. Existuje rok, kedy medziročný nárast cien potravín bol výrazne vyšší ako rast miezd (viac ako 10 %) ?
 
-V žiadnom z rokov, ktoré boli skúmané, medziročný nárast cien potravín neprekročil hranicu 10 %.
-Najväčší medziročný nárast cien potravín bol v roku 2017, kedy ceny vzrástli o 9,63 %.
+Počas roka 2012 ( Teda od 2012 až 2013 ) klesol priemerný nárast platu o 8,91 %, pričom ale ceny stúpli o priemerne 5,1 %, čo vo výsledku robí rozdiel 14,01 % v celom porovnaní.
 V roku 2013 bol najväčší rozdiel medzi nárastom cien potravín a miezd, a to o 6,66 %. Ceny potravín vzrástli o 5,1 %, zatiaľ čo mzdy klesli o -1,56 %.
-V roku 2010 bol medziročný nárast cien a miezd rovnaký.
+V roku 2010 bol rodziel medziročného nárastu cien a miezd len 0,04 %, takže skoro rovnaký.
 
 ## 5. Má výška HDP vplyv na zmeny v mzdách a cenách potravín?
 
